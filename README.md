@@ -2,4 +2,5 @@
 - 👀 I’m interested in gardening, fishing, electronics (Arduino)
 - 🌱 I’m currently learning C++, electronics, drywall and mudding
 - 💞️ I’m looking to collaborate on nothing at the moment.
-- 📫 paalgam at gmail 
+- 📫 paalgam at gmail
+- I run my own company (Norwegian text): https://gdata.no/
